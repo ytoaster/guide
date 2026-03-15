@@ -34,6 +34,6 @@ I'm going to install Firefox Developer Edition, because the installed Firefox ve
  
 > Written with [StackEdit](https://stackedit.io/).
 
->Firefox update guide peovided by Mozilla, check [here](https://support.mozilla.org/en-US/kb/install-firefox-linux).
+>Firefox update guide shamelessly copied from Mozilla, check [here](https://support.mozilla.org/en-US/kb/install-firefox-linux).
 
 
